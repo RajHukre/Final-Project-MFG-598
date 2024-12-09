@@ -4,8 +4,9 @@ Engineering Computing with Python
 Final Project
 Author: RajHukre
 ASU ID: 1227157726
-Description: This is an advanced visualization of the Employee attrition dataset using Bokeh.
-Total of 6 plots are shown for analysis.
+Description:This project analyzes the IBM HR Analytics dataset to uncover factors driving employee attrition.
+Using causal discovery tools like CDT and libraries such as NumPy and scikit-learn, 
+it generates actionable insights through graphs and charts, aiding organizations in improving retention strategies.
 """
 
 # imports
