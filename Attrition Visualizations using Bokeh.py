@@ -2,10 +2,8 @@
 MFG: 598
 Engineering Computing with Python
 Final Project
-
-Author: Nishad Kale
-ASU ID: 1226362919
-
+Author: RajHukre
+ASU ID: 1227157726
 Description: This is an advanced visualization of the Employee attrition dataset using Bokeh.
 Total of 6 plots are shown for analysis.
 """
