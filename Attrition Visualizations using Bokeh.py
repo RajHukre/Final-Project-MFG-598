@@ -4,8 +4,9 @@ Engineering Computing with Python
 Final Project
 Author: RajHukre
 ASU ID: 1227157726
-Description: This project leverages the IBM HR Analytics dataset to investigate factors affecting employee attrition.
-Using tools like CDT and Python libraries (NumPy, Pandas, etc.), it visualizes insights via charts and graphs.
+Description: This project analyzes the IBM HR Analytics dataset to uncover factors driving employee attrition.
+Using causal discovery tools like CDT and libraries such as NumPy and scikit-learn, 
+it generates actionable insights through graphs and charts, aiding organizations in improving retention strategies.
 """
 
 # Imports
